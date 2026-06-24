@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Haochong's Blog
+title: Goodchong's Blog
 subtitle: '记录技术、生活与思考'
-description: 'Haochong Zhang 的个人博客，分享关于前端、后端、开发技术与生活感悟。'
-keywords: 'Haochong, 博客, 开发者, 技术分享, 编程'
-author: Haochong Zhang
+description: 'Goodchong 的个人博客，分享关于前端、后端、开发技术与生活感悟。'
+keywords: 'Goodchong, 博客, 开发者, 技术分享, 编程'
+author: Goodchong
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
