@@ -21,4 +21,4 @@ categories:
 - 🎨 **工程实践**：项目实战中的最佳实践、设计模式以及工具链分享。
 - 💡 **日常思考**：生活中的随笔，或者是读完一本书后的读书笔记。
 
-欢迎大家关注我的 GitHub：[goodchong](https://github.com/goodchong)，也欢迎通过邮箱与我交流。
+欢迎大家关注我的 GitHub：[goodchong](https://github.com/goodchong)。
