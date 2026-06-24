@@ -11,7 +11,7 @@ layout: about
 #### 个人简介
 - 💻 **领域**：软件开发 / 前端 / 后端
 - ✍️ **爱好**：写代码、阅读、探索新技术
-- ✉️ **联系方式**：[your-email@example.com](mailto:your-email@example.com)
+- ✉️ **联系方式**：[solomon.zhc@gmail.com](mailto:solomon.zhc@gmail.com)
 
 感谢您的到访！
 

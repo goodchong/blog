@@ -1,43 +1,24 @@
 ---
-title: Hello World
+title: 欢迎来到我的个人博客！
 tags:
-  - Hexo
-  - Blog
+  - 随笔
+  - 欢迎
 categories:
-  - 教程
+  - 生活
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+这是我的第一篇博客文章！
 
-### Create a new post
+在这里，我计划分享我的学习历程、开发经验、技术见解，以及在日常生活中的一些感悟。
 
-``` bash
-$ hexo new "My New Post"
-```
+### 为什么建立这个博客？
+- 📝 **记录与沉淀**：把学到的技术点和遇到的坑记录下来，方便以后查阅。
+- 🤝 **交流与分享**：通过文字，把有价值的经验分享给有需要的朋友。
+- 🚀 **成长与突破**：定期输出内容能够促进自我思考和持续学习。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### 博客的主要内容
+- 💻 **技术沉淀**：前端（React, Vue, Web 开发）、后端、云原生与部署相关的技术分享。
+- 🎨 **工程实践**：项目实战中的最佳实践、设计模式以及工具链分享。
+- 💡 **日常思考**：生活中的随笔，或者是读完一本书后的读书笔记。
 
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+欢迎大家关注我的 GitHub：[goodchong](https://github.com/goodchong)，也欢迎通过邮箱与我交流。
